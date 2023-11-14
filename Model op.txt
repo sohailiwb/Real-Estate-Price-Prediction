@@ -1,0 +1,10 @@
+1.Decision Tree:
+    Mean: 4.2783365527503
+    Standard deviation: 0.8331971189110353
+2.Neural network
+    Mean: 3.859775593499927
+    Standard deviation: 1.2089809248142598
+3.Randomforest
+     Mean: 3.297115815372547
+     Standard deviation: 0.6518883196535377
+4
